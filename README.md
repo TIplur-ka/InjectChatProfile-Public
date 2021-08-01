@@ -9,13 +9,14 @@ InjectChatProfile - альтернатива плагину Chatty.
 
 - InjectDiscordAddon - Аддон позволяющий подключаться к дискорду!
 
+- InjectDLinkAddon - Аддон который позволяет добавить линковку дискорд аккаунта и аккаунта Minecraft!
+
 - InjectChatAddon - Аддон включающий в себя несколько дополнений к основному плагину.   
 Список дополнений:
   + Пинг игрока в чате
   + Отображение ника в ActionBar (rHideTags)
   + Чат над головой (LightChatBubbles and custom function added HEX suppurt)
 
-- InjectDLinkAddon - Аддон который позволяет добавить линковку дискорд аккаунта и аккаунта Minecraft!
 
 
 
