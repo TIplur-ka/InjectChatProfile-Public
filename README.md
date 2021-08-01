@@ -21,7 +21,7 @@ InjectChatProfile - альтернатива плагину Chatty.
 
 
 
-Изображения:
+## Изображения:
 
 ![image](https://user-images.githubusercontent.com/69672125/127400138-b8f99887-d3b3-4334-a15d-3e3b025ab494.png)
 
