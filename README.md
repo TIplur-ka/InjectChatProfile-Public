@@ -16,7 +16,7 @@ InjectChatProfile - альтернатива плагину Chatty.
 - InjectChatAddon - Аддон включающий в себя несколько дополнений к основному плагину.   
 Список дополнений:
   + Пинг игрока в чате
-  + Отображение ника в ActionBar (rHideTags)
+  + Отображение ника в ActionBar (Спасибо <a href="https://github.com/omashune">omashune</a> за разрешение использовать его плагин rHideTags)
   + Чат над головой (LightChatBubbles and custom function added HEX suppurt)
 
 
