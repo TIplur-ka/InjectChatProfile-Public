@@ -1,5 +1,7 @@
 # InjectChatProfile
 
+[![Visits Badge](https://badges.pufler.dev/visits/TIplur-ka/InjectChatProfile-Public)](https://badges.pufler.dev)
+
 [![VK Badge](https://img.shields.io/static/v1?label=VK&message=Studio&logoColor=white&color=blue&logo=VK)](https://vk.com/angelitex/)    
 [![VK Badge](https://img.shields.io/static/v1?label=VK&message=Profile&logoColor=white&color=blue&logo=VK)](https://vk.com/tiplurka/)
 
